@@ -6,7 +6,7 @@ ___
 
 ## Learning Process
 
-1. My first step is to read __The Little Schemer__ by *Daniel P. Friedman and Matthias Felleisen *
+1. My first step is to read __The Little Schemer__ by *Daniel P. Friedman and Matthias Felleisen*
 2. Then, I might read __Practical Common Lisp__ by *Peter Seibel*
 
 ## My Setup
