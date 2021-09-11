@@ -91,3 +91,14 @@
     ((cons (car lat) (multiinsertL new old (cdr lat))))
     )
   )
+
+(defun fact (n)
+  (cond
+    ((< n 0) nil)
+    ((= n 0) 1)
+    ((* n (fact (- n 1))))
+    )
+  )
+
+(defun distro ()
+  (quote("Arch Linux")))
